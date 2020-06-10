@@ -14,3 +14,4 @@ Password requirements :
 
 I use also the boolean pEquals (to check if password1 == password2) and pCharOccMet (to check that no character is repeaded more than two times)
 
+I added some comments in the code to make some things a bit clearer
