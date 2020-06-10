@@ -12,5 +12,5 @@ Password requirements :
 - no spaces (pSpaceMet)
 - and can't start with "!" or "?" (pStartsQuestExcMet : for question and exclamation marks)
 
-I use also the boolean pEquals (to check if password1 == password2) and pCharOccMet (to be sure that no character is repeated twice)
+I use also the boolean pEquals (to check if password1 == password2) and pCharOccMet (to check that no character is repeaded more than two times)
 
